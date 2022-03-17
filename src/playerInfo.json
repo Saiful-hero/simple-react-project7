@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name":  "Tamim Iqbal Khan",
+        "DOB":  "20 Mar 1989 (age 32)",
+        "img":"http://cricket.upcomingwiki.com/public/images/gallery/53019.png",
+        "salary":  37000
+
+    },
+    
+    {
+            "id": 2,
+            "name":  "Sakib Al Hasan",
+            "DOB":  "13 Aug 1990 (age 31)",
+            "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170912/shakib-al-hasan.jpg",
+            "salary": 400000
+    
+        },
+    {
+        "id": 3,
+        "name":  "Mushfiqur Rahim",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://storage.googleapis.com/cricketimages/Players/F8.png",
+        "salary": 340000
+    
+    },
+    {
+        "id": 4,
+        "name":  "Mashrafi Bin Mortuza",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mashrafe_Bin_Mortaza_%28cropped%29.jpg/260px-Mashrafe_Bin_Mortaza_%28cropped%29.jpg",
+        "salary":"$35,000"
+    
+    },
+   
+    {
+        "id": 5,
+        "name":  "Mahmudullah Riyad",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c170905/mahmudullah.jpg",
+        "salary":"$35,000"
+    
+    },
+    {
+        "id": 6,
+        "name":  "Shariful Islam",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://p.imgci.com/db/PICTURES/CMS/323100/323175.png",
+        "salary":"$35,000"
+    
+    },
+    {
+        "id": 7,
+        "name":  "Sabbir Rahman",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://pbs.twimg.com/profile_images/1145765648087302145/Qicbhz_S_400x400.jpg",
+        "salary":"$35,000"
+    
+    },
+    {
+        "id": 8,
+        "name":  "Nasir Hossein",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://p.imgci.com/db/PICTURES/CMS/316600/316633.png",
+        "salary":"$35,000"
+    
+    },
+    {
+        "id": 9,
+        "name":  "Afif Hossein",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://p.imgci.com/db/PICTURES/CMS/323100/323159.png",
+        "salary":"$35,000"
+    
+    },
+    {
+        "id": 10,
+        "name":  "mushfiqur rahim",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://m.cricbuzz.com/a/img/v1/192x192/i1/c156212/taskin-ahmed.jpg",
+        "salary":"$35,000"
+    
+    },
+    {
+        "id": 11,
+        "name":  "Nasum Ahmed",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://resources.pulse.icc-cricket.com/players/t20wc-2021/284/19994.png",
+        "salary":"$35,000"
+    
+    },
+   
+    {
+        "id": 12,
+        "name":  "Mustafizur Rahman",
+        "DOB":  " 12 Oct, 1995 (age 26 years)",
+        "img":"https://p.imgci.com/db/PICTURES/CMS/319700/319734.square.png",
+        "salary": 41000
+    
+    },
+    {
+        "id": 13,
+        "name":  "Yasir Ali",
+        "DOB":  " May 9, 1987 (age 34 years)",
+        "img":"https://api.bdcrictime.com/Yasir%20Ali.jpg",
+        "salary":"$35,000"
+    
+    }
+    
+]

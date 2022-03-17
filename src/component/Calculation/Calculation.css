@@ -1,0 +1,8 @@
+.cart{
+    /* width: 100%; */
+    border-left: 1px solid lightblue;
+    padding-left:100px
+}
+.line{
+    border-bottom: 2px solid black;
+}

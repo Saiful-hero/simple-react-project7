@@ -1,23 +1,36 @@
-import logo from './logo.svg';
 import './App.css';
+import infoData from './playerInfo.json'
+import { useState,useEffect } from 'react';
+import Player from './component/Player/Player';
+import Calculation from './component/Calculation/Calculation';
 
 function App() {
+
+  const [players, setPlayer] = useState([]);
+  const [cart , setCart] = useState([]);
+ 
+  useEffect(() =>{
+    setPlayer(infoData);
+  },[]);
+  
+  const handleAddPlayer = (player) =>{
+    const newCart = [...cart, player ]
+    setCart(newCart);    //setCart([...cart, player]);
+    
+  }
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App flex">
+      
+        <div className="plaer-container">
+          {
+            players.map(pl => <Player player={pl} handleAddPlayer={handleAddPlayer} key={pl.id}></Player>)
+          } 
+          </div>
+          
+          <div>
+          <Calculation cart={cart}></Calculation> 
+          </div>
     </div>
   );
 }
